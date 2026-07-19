@@ -1,29 +1,70 @@
-# 👋 Hi, I’m Arther Nyamayaro
+# Hi, I'm Arther Nyamayaro 👋
 
-## 👀 About Me
-I'm a passionate **Data Scientist** with a deep interest in exploring the power of data to solve real-world problems. My journey in data science has been driven by curiosity, innovation, and a love for continuous learning.
+Full Stack Software Developer | AI & Data Science Enthusiast | IT Consultant
 
-## 🌱 Currently Learning
-I'm diving deep into **Deep Learning** with a focus on **Transformers**, exploring their potential in Natural Language Processing (NLP) and beyond.
+I build scalable web applications, REST APIs, AI-powered solutions and automation tools using modern technologies.
 
-## 💞️ Collaboration Interests
-- **AI and ML Projects**: I'm open to collaborating on innovative AI/ML projects that push boundaries.
-- **Data Visualization**: Projects that involve crafting meaningful and impactful visuals from complex datasets.
-- **Open Source**: Contributing to open-source projects related to data science, machine learning, or Python.
+## Tech Stack
 
-## 📫 Let's Connect
-- **Email**: [nyamayaroarthur@gmail.com](mailto:nyamayaroarthur@gmail.com)
-- **LinkedIn**: [Arther Nyamayaro](https://www.linkedin.com/in/arther-nyamayaro-47765227b/)
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- FastAPI
+- Flask
+- Node.js
+- Express
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### AI & Data Science
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+
+### DevOps
+- Docker
+- Git
+- GitHub Actions
+
+## Featured Projects
+
+### ScamGuard AI Prototype
+An AI-powered scam detection tool.
+
+Tech:
+Python • FastAPI • React • PostgreSQL
+
+### RevNet.AI
+RevNet.AI is an end-to-end, machine-learning-powered revenue management and operations console designed to maximize hotel profitability, optimize staffing resources, automate marketing packages, and detect transaction anomalies.
+
+Tech:
+Fastapi • React • PostgreSQL • Docker
 
 
-## 😄 Pronouns
-He/Him
 
-## ⚡ Fun Fact
-When I’m not wrangling data, you’ll probably find me exploring **chess strategies**, experimenting with **new recipes**, or binge-watching documentaries on **space exploration**.
-..
+## Currently Learning
 
-<!---
-hashirama55/hashirama55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Cloud Architecture
+- Kubernetes
+- CI/CD
+- System Design
+
+## Contact
+
+Email: arthernyamayaro@gmail.com
+Portfolio:https://arthernyamayaro.vercel.app/
